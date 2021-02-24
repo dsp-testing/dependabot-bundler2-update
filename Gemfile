@@ -2,5 +2,4 @@
 
 source "https://rubygems.org"
 
-gem "ice_nine", "~> 0.11.1"
-gem "byebug", "~> 11.0.0"
+gem "guard-bundler", "~> 2.2.1"
